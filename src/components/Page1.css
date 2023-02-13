@@ -1,0 +1,19 @@
+
+    /* Add some styling to the page */
+    table {
+        border-collapse: collapse;
+      }
+      th, td {
+        border: 1px solid black;
+        padding: 8px;
+      }
+      th {
+        background-color: #f2f2f2;
+      }
+      form {
+        margin-top: 20px;
+      }
+      label {
+        font-weight: bold;
+        margin-right: 10px;
+      }
